@@ -1,0 +1,5 @@
+default['app-selenium']['track'] = 'stable'
+default['app-selenium']['yum_baseurl'] = 'http://dl.google.com/linux/chrome/rpm/stable/$basearch'
+default['app-selenium']['yum_gpgkey'] = 'https://dl-ssl.google.com/linux/linux_signing_key.pub'
+default['app-selenium']['version'] = 'LATEST_RELEASE'
+default['app-selenium']['url'] = 'https://chromedriver.storage.googleapis.com'

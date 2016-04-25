@@ -1,0 +1,10 @@
+name             'app-selenium'
+maintainer       'Satyajit Roy'
+maintainer_email 'sroy@chegg.com'
+license          'All rights reserved'
+description      'Installs/Configures app-selenium'
+long_description 'Installs/Configures app-selenium'
+version          '0.1.26'
+
+depends 'app-selenium'
+depends 'yum', '~> 3.2'
